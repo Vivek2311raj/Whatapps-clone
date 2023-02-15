@@ -17,6 +17,7 @@ function App() {
         user: user,
       });
     });
+    // eslint-disable-next-line
   }, []);
   return (
     <Router>
